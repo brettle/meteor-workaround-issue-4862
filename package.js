@@ -2,10 +2,10 @@
 
 Package.describe({
   name: 'brettle:workaround-issue-4862',
-  version: '0.0.1',
+  version: '0.0.2',
   summary:
     'Workaround Meteor issue 4862 - user/userId broken in server onLogin',
-  git: 'https://github.com/brettle/meteor-workaround-issue-4862',
+  git: 'https://github.com/brettle/meteor-workaround-issue-4862.git',
   documentation: 'README.md'
 });
 
